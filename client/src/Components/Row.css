@@ -1,0 +1,24 @@
+
+.dull{
+    opacity: 50%;
+}
+
+.one{
+    background-color: rgb(43, 43, 237);
+}
+
+.one-win, .two-win{
+    opacity: 100%;
+}
+
+.one-win{
+    background-color: rgb(43, 43, 237);
+}
+
+.two-win{
+    background-color: rgb(174, 239, 44);
+}
+
+.two{
+    background-color: rgb(174, 239, 44);
+}
